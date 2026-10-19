@@ -35,7 +35,6 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.example.vp_week4.ui.theme.VP_Week4Theme
 
-// 1. Model Data Mobil
 data class Car(
     val id: Int,
     val name: String,
